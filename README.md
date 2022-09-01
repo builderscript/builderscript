@@ -6,5 +6,3 @@
 - 🌱 In June, I began my programming adventure.
 - 🐍 Now I'm learning python along with the flask framework.
 - 🔭 Currently I am engaged in building my own and fully functional Builder Script web application.
-![alt text](https://github.com/builderscript/builderscript/blob/main/BuilderScript-logo.png?raw=true)
-
